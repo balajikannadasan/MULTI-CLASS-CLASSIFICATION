@@ -23,6 +23,8 @@ In multi-class classification, the neural network has the same number of output 
 3.Assign the counter value using the Counter function.
 ### Step 4:
 4.Using a for loop, plot the points using scatter function.
+<br></br>
+<br></br>
 ## Program:
 ~~~
 Program to implement the multi class classifier.
@@ -46,6 +48,18 @@ for label, _ in counter.items():
 pyplot.legend()
 pyplot.show()
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ![multi class classification plot](123.png)
 
